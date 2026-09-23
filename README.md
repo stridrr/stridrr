@@ -1,15 +1,7 @@
-<img src="https://files.catbox.moe/c1dfbi.png" width="250" align="right">
-
-‎  ‎ ‎    ‎ ‎    ‎‎ ‎   ‎  ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎  ‎ ‎ ‎ 
-<br>
-
-
-<br>
-
-
+<img src="https://files.catbox.moe/c1dfbi.png" width="250" align="left">
 
 <div align="center">
-<br>  
+<br> <br><br><BR><BR> 
   <table>
     <tr>
       <td>
