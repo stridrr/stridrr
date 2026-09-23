@@ -47,14 +47,4 @@
 
 <br><br>
 
-<details>
-<summary>☆</summary>
-
-friends
-<br> 
-[@watcherbittes](github.com/watcherbittes)
-<br>
-
-  
-</details>
 ‎ ‎  
